@@ -1,0 +1,15 @@
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\obj\Debug\net5.0\Exercicios16-10-fashiondevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\obj\Debug\net5.0\Exercicios16-10-fashiondevs.AssemblyInfoInputs.cache
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\obj\Debug\net5.0\Exercicios16-10-fashiondevs.AssemblyInfo.cs
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\obj\Debug\net5.0\Exercicios16-10-fashiondevs.csproj.CoreCompileInputs.cache
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\bin\Debug\net5.0\Exercicios16-10-fashiondevs.exe
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\bin\Debug\net5.0\Exercicios16-10-fashiondevs.deps.json
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\bin\Debug\net5.0\Exercicios16-10-fashiondevs.runtimeconfig.json
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\bin\Debug\net5.0\Exercicios16-10-fashiondevs.runtimeconfig.dev.json
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\bin\Debug\net5.0\Exercicios16-10-fashiondevs.dll
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\bin\Debug\net5.0\ref\Exercicios16-10-fashiondevs.dll
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\bin\Debug\net5.0\Exercicios16-10-fashiondevs.pdb
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\obj\Debug\net5.0\Exercicios16-10-fashiondevs.dll
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\obj\Debug\net5.0\ref\Exercicios16-10-fashiondevs.dll
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\obj\Debug\net5.0\Exercicios16-10-fashiondevs.pdb
+C:\Users\Diego-NoteW\source\repos\Exercicios16-10-fashiondevs\Exercicios16-10-fashiondevs\obj\Debug\net5.0\Exercicios16-10-fashiondevs.genruntimeconfig.cache
